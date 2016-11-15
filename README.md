@@ -1,6 +1,6 @@
 # Regression Analysis with Python
 
-This repository holds the code for the book "Regression Analysis with Python"
+This repository holds the notebooks for the book "Regression Analysis with Python"
 by [Luca Massaron](https://www.linkedin.com/in/lmassaron) and  [Alberto Boschetti](https://www.linkedin.com/in/alberto-boschetti-a050b55). You can find details about the book on the  [Packt website](https://www.packtpub.com/big-data-and-business-intelligence/regression-analysis-python).
 
 The books requires the current development version of scikit-learn, that is
@@ -11,7 +11,7 @@ scikit-learn, though you need to adjust the import for everything from the
 
 ## Setup
 
-To run the code, you need the packages ``numpy``, ``scipy``, ``scikit-learn``, ``matplotlib``, and ``pandas``.
+To run the notebooks, you need the packages ``numpy``, ``scipy``, ``scikit-learn``, ``matplotlib``, and ``pandas``.
 
 The easiest way to set up an environment is by installing [Anaconda](https://www.continuum.io/downloads).
 
