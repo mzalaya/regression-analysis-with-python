@@ -1,3 +1,8 @@
+# About Python
+
+Python is a high-level, general-purpose, dynamic programming language that is becoming ever more widespread in the programming world. It is readable, succinct, scalable, and can support multiple programming paradigms. It is now the most common ‘starter’ language taught on university programming courses and is seen by many as the future of coding.
+
+
 # Regression Analysis with Python
 
 This repository holds the notebooks for the book "Regression Analysis with Python"
